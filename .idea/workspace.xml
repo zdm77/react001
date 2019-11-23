@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6208b49c-11a7-42cb-b8d4-3d4567af6232" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="6208b49c-11a7-42cb-b8d4-3d4567af6232" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +54,7 @@
       <updated>1574429840648</updated>
       <workItem from="1574429841723" duration="1648000" />
       <workItem from="1574431514273" duration="7117000" />
-      <workItem from="1574494845310" duration="5182000" />
+      <workItem from="1574494845310" duration="5802000" />
     </task>
     <task id="LOCAL-00001" summary="Развертывание React -а">
       <created>1574430566029</created>
@@ -82,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574497213412</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="CodeIgniter">
+      <created>1574500365103</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574500365103</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +109,8 @@
     <MESSAGE value="Развертывание React -а" />
     <MESSAGE value="Интеграция с bootstrap" />
     <MESSAGE value="До интеграции с CodeIgniter" />
-    <option name="LAST_COMMIT_MESSAGE" value="До интеграции с CodeIgniter" />
+    <MESSAGE value="CodeIgniter" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeIgniter" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
